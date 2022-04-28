@@ -1,3 +1,3 @@
 # teste sem JUnit
 
-# vamos ter a classe Conta e a classe TesteConta
+# vamos ter a classe ContaCorrente e a classe TesteConta
